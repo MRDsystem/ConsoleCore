@@ -1,0 +1,12 @@
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.lib.deps.json
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.lib.dll
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.lib.pdb
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.csprojAssemblyReference.cache
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfoInputs.cache
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfo.cs
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.csproj.CoreCompileInputs.cache
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.csproj.CopyComplete
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.dll
+D:\DEV\WEB\C#\CONSOLECORE\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.lib.pdb
